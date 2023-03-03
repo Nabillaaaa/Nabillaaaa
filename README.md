@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-**Nabillaaaa/Nabillaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+##About me:
 
 - 🔭 I’m currently learning at [Universitas Multi Data Palembang](https://mdp.ac.id/)
 - 🌱 I’m currently learning Python, html and Javascript
@@ -11,7 +7,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with  
 - 💬 Ask me about anything
 - 📫 How to reach me: nabillarizanti@mhs.mdp.ac.id
--->
+
 
 ## Education:
 
