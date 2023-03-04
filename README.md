@@ -1,4 +1,4 @@
-### Hi there, i'm https://instagram.com/itz.bllaa_👋 
+### Hi there, i'm [Nabilla_Rizanti] (https://instagram.com/itz.bllaa_)👋 
 ##About me:
 
 - 🔭 I’m currently learning at [Universitas Multi Data Palembang](https://mdp.ac.id/)
