@@ -1,5 +1,4 @@
-### Hi there👋 
-#i'm [Nabilla Rizanti](https://instagram.com/itz.bllaa_)👋 
+### Hi there, i'm [Nabilla Rizanti](https://instagram.com/itz.bllaa_)👋 
 
 ##About me:
 
