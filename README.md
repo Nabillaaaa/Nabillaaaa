@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently learning at [Universitas Multi Data Palembang](https://mdp.ac.id/)
 - 🌱 I’m currently learning Python, html and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for help with  
+- 👯 I’m looking to collaborate as Data Analyst 
 - 💬 Ask me about anything
 - 📫 How to reach me: nabillarizanti@mhs.mdp.ac.id
 
